@@ -1,0 +1,10 @@
+".DS_Store\n*.pyc\n__pycache__/"
+Data/MachineLearningRating_v3.csv
+
+"Data/MachineLearningRating_v3.csv"
+
+env/
+__pycache__/
+.dvc/
+*.log
+*.csv
